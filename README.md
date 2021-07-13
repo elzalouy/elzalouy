@@ -1,8 +1,10 @@
 ### Hi there 👋👋
-## My name is Ezat Elzalouy 🤗
+## My name is Ezat Elzalouy 🤗  
+### Computer science and software engineer 
 
-
-I am a MERN stack developer that aims to Learn and always aspire to get better than before. My goal is to be responsible for every process in building any application to meet the identified business needs. These aspects consist of the design, development, testing, and mapping of the process life cycle of the application.
+I am a MERN stack developer who aims to Learn and always aspire to get better than before. My goal is to be responsible for every process in building any application to meet the identified business needs. These aspects consist of the design, development, testing, and mapping of the process life cycle of the application.
+* Ability to work with teams using `AGILE Methodologies`.
+* Building and Maintaing micro services.
 
 ### Education 🏫
 * Bachelor's Degree in computer science.
